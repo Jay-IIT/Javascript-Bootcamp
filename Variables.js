@@ -22,3 +22,6 @@ const const_object = { name:"Thor"}
 const_object.name = "thor odinson"
 
 console.log(const_object.name)
+
+console.log(x)
+var x = "cool example"
